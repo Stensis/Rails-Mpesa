@@ -1,0 +1,2 @@
+class CallbackUrl < ApplicationRecord
+end
